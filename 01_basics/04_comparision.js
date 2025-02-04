@@ -16,3 +16,8 @@ let myObj={
     age:24,
 }
 console.log(myObj)
+let ab=30
+ab=40 
+
+console.log(ab)
+
